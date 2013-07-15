@@ -10,6 +10,7 @@
     End Sub
 
     Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.Windows.RoutedEventArgs) Handles Button2.Click
+
         MessageBox.Show("Nice Work")
     End Sub
 End Class
